@@ -1,13 +1,13 @@
 {
     "##": "This file is a template. Fill the blanks and add or remove fields as necessary.",
-    "version": "0.7.4",
+    "version": "0.7.5",
     "description": "nodejs version manager",
     "homepage": "https://github.com/anemele/nvm",
     "license": "",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/anemele/nvm/releases/download/v0.7.4/nvm-0.7.4-x86_64-pc-windows-msvc.zip",
-            "hash": "0832c57146658715fe553f0eb03cf63a6b09568cad340ce13c2a11ac524b6db3"
+            "url": "https://github.com/anemele/nvm/releases/download/v0.7.5/nvm-0.7.5-x86_64-pc-windows-msvc.zip",
+            "hash": "c8a15a8bd0678e5025203d3b9e857afb46a741cc8b9f2a0597da51c952458ebf"
         }
     },
     "bin": "nvm.exe",
