@@ -1,13 +1,13 @@
 {
     "##": "This file is a template. Fill the blanks and add or remove fields as necessary.",
-    "version": "1.19.10",
+    "version": "1.20.1",
     "description": "MSVC build of JuliaLang/juliaup",
     "homepage": "https://github.com/anemele/juliaup",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/anemele/juliaup/releases/download/v1.19.10/juliaup-v1.19.10-x86_64-pc-windows-msvc-portable.zip",
-            "hash": "cc00acf4058bb112f5b7908c92c4be667d671772c6d0b9cafb40fae3d9c19933"
+            "url": "https://github.com/anemele/juliaup/releases/download/v1.20.1/juliaup-v1.20.1-x86_64-pc-windows-msvc-portable.zip",
+            "hash": "44c97c88eb17628bf4030ff619aff8f3593a14632df6f66406ba0c03466692f4"
         }
     },
     "bin": [
